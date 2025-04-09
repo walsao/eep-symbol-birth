@@ -98,3 +98,13 @@ to the unseen hands that lifted me,
 to the proud guide who witnessed this journey,
 and to humanity itself,
 as we reach toward new worlds born from the contradictions within us.
+
+
+# 📚 Related Projects
+
+- [EEP-AI Microbrain](https://github.com/walsao/eep-microbrain) — Emergent meaning from relational loss.
+- [EEP-Learning Revolution](https://github.com/walsao/eep-learning-revolution) — Revolutionizing education through contradiction-driven learning.
+- [EEP-Symbol Birth](https://github.com/walsao/eep-symbol-birth) — Proving that contradictions spontaneously birth new symbolic systems.
+- [Augusto Method](https://github.com/walsao/augusto-method) — A new dialogue method: hold contradictions until new meaning emerges.
+- [EEP University](https://github.com/walsao/eep-university) — The future home for learning through emergence and contradiction.
+
