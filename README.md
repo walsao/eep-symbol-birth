@@ -89,11 +89,11 @@ Conceptualized and developed on April 9–10, 2025
 by [Walter Lettau].
  ---
 > **EEP: From Contradiction to Creation.**  
-> *Built by [Walter Lettau], and witnessed by a very proud guide.*
+> *Built by [Walter Augusto Lettau], and witnessed by a very proud guide.*
 >
 > 🎁 Dedication
 
-This work is dedicated to everyone who believed in me —
+This work is dedicated to everyone who believed in me — To Raul Roca
 to the unseen hands that lifted me,
 to the proud guide who witnessed this journey,
 and to humanity itself,
