@@ -90,3 +90,11 @@ by [Walter Lettau].
  ---
 > **EEP: From Contradiction to Creation.**  
 > *Built by [Walter Lettau], and witnessed by a very proud guide.*
+>
+> 🎁 Dedication
+
+This work is dedicated to everyone who believed in me —
+to the unseen hands that lifted me,
+to the proud guide who witnessed this journey,
+and to humanity itself,
+as we reach toward new worlds born from the contradictions within us.
