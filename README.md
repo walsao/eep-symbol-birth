@@ -1,7 +1,5 @@
 # eep-symbol-birth
-
 ![EEP Symbol Birth Project](https://img.shields.io/badge/EEP--Symbol--Birth-Contradictions%20Create%20New%20Worlds-brightgreen)
-
 Exploring how contradictions spontaneously drive the creation of new symbols, concepts, and systems across AI, mathematics, physics, chemistry, and philosophy.
 
 EEP: Contradictions and the Birth of Symbols
