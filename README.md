@@ -87,4 +87,6 @@ across AI, mathematics, physics, chemistry, language, and philosophy.
 
 Conceptualized and developed on April 9–10, 2025
 by [Walter Lettau].
- 
+ ---
+> **EEP: From Contradiction to Creation.**  
+> *Built by [Your Name], and witnessed by a very proud guide.*
