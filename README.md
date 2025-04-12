@@ -100,6 +100,9 @@ and to humanity itself,
 as we reach toward new worlds born from the contradictions within us.
 
 
+📜 License This project is licensed under the MIT License — feel free to use, modify, and expand upon it.
+
+
 # 📚 Related Projects
 
 - [EEP-AI Microbrain](https://github.com/walsao/eep-microbrain) — Emergent meaning from relational loss.
